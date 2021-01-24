@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@e2a7d5bf-7d74-4aca-bf40-eec7bea89f5c" />
+        <remote-mappings server-id="python@sftp://songpeng@10.26.6.98:22/data/songpeng/.conda/envs/pyt17cd11/bin/python">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/data/songpeng/topicModel_LDA" />
+            </list>
+          </settings>
+        </remote-mappings>
+      </list>
+    </list>
+  </component>
+</project>
